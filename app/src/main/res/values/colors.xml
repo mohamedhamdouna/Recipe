@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffb300</color>
+    <color name="colorPrimaryDark">#DD9B04</color>
+    <color name="colorAccent">#ffb300</color>
+    <color name="facelogo">#3b5998</color>
+    <color name="googleLogg">#dd4b39</color>
+    <color name="twtLogo">#55acee</color>
+    <color name="colorAccentLight">#F1D39B</color>
+</resources>

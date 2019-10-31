@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "45146924690",
+    "firebase_url": "https://workonline-d0d52.firebaseio.com",
+    "project_id": "workonline-d0d52",
+    "storage_bucket": "workonline-d0d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45146924690:android:e32bfc1b32310b1d",
+        "android_client_info": {
+          "package_name": "com.mohammed.massengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45146924690-94a5nqq0p3pt6ncqkuqbs1fj237k9u0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammed.massengerapp",
+            "certificate_hash": "d69ec85215277a15220bb145b707cce640a09b64"
+          }
+        },
+        {
+          "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OEKZR__yK7TsY5gXgXXHY359wsCJIBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45146924690:android:5e5e1ebc852d4e78",
+        "android_client_info": {
+          "package_name": "com.mohammed.products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45146924690-2pq9pqkhesc4fmdispuuq6vcegjs24s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammed.products",
+            "certificate_hash": "d69ec85215277a15220bb145b707cce640a09b64"
+          }
+        },
+        {
+          "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OEKZR__yK7TsY5gXgXXHY359wsCJIBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45146924690:android:0543567725d5440f9c684b",
+        "android_client_info": {
+          "package_name": "com.mohammed.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45146924690-g6neg9siq8r5edjq21e1pvgkkevng85a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammed.recipe",
+            "certificate_hash": "d69ec85215277a15220bb145b707cce640a09b64"
+          }
+        },
+        {
+          "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OEKZR__yK7TsY5gXgXXHY359wsCJIBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45146924690-93rl2l55tu80ua0j5gf7fs2f09t2q278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

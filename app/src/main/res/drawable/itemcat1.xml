@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_path_backcat"></item>
+    <item android:drawable="@drawable/ic_cat_item1"
+        android:start="16dp"
+        android:end="16dp"
+        android:top="20dp"
+        android:bottom="20dp"
+        ></item>
+
+</layer-list>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dash"
+        android:icon="@drawable/ic_dish"
+        android:title="@string/title_dash"/>
+
+    <item
+        android:id="@+id/navigation_magnifier"
+        android:icon="@drawable/ic_magnifier"
+         android:title="@string/title_search"/>
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/ic_add"
+        android:title="@string/title_add" />
+    <item
+        android:id="@+id/navigation_global"
+        android:icon="@drawable/ic_global"
+        android:title="@string/title_globel" />
+    <item
+        android:id="@+id/navigation_chif"
+        android:icon="@drawable/ic_chef"
+        android:title="@string/title_chif" />
+
+</menu>

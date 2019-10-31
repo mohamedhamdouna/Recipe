@@ -1,0 +1,15 @@
+<resources>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <string name="title_activity_search">SearchAct</string>
+    <string name="title_dash"/>
+    <string name="title_search"/>
+    <string name="title_add"/>
+    <string name="title_globel"/>
+    <string name="title_chif"/>
+    <string name="app_name">Recipe</string>
+    <string name="facebook_app_id">418385178862300</string>
+    <string name="fb_login_protocol_scheme">fb418385178862300</string>
+</resources>
